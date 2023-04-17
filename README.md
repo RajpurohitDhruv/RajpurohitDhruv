@@ -1,4 +1,4 @@
-# 💫 <Dhruv Rajpurohit />
+# 💫 About Me:
 Computer Science Student<br>Passionate about Data Science and Ethical Hacking<br>Want to be a Data Scientist<br>Currently working in Web Development and Java <br>
 
 
